@@ -1,8 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Panchanan Nanraraj
 ===========================================================================================================================================
 
-bjQxbDl4eW5lcXJpamZ1aXhjdWhqeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/
-M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" height="100" />
+
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
 * ✉️  You can contact me at [panchanan.n@ku.th](mailto:panchanan.n@ku.th)
 
